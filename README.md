@@ -12,10 +12,10 @@ Business also wants to store all images of a product together.
 2. Create an unsupervised image clustering model using **Mlib**.
 
 Raw data schema:
-![image](https://github.com/annajjames/BigData_AmazonBerkleyObjects/assets/58715002/20ce3734-9344-4db5-a1d3-cf51a6481577)
+![image](https://github.com/annajjames/BigData_AmazonBerkleyObjects/assets/58715002/92b43436-d1a9-468f-8b1f-5370b01631e2)
 
 Gold table schema:
-![image](https://github.com/annajjames/BigData_AmazonBerkleyObjects/assets/58715002/bc5cf20d-911e-47f9-a88f-2d23e0561059)
+![image](https://github.com/annajjames/BigData_AmazonBerkleyObjects/assets/58715002/8c91b76e-5296-4698-b4c4-62bad5f97288)
 
 
 ## Attribution
