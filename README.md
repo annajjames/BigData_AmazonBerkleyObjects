@@ -11,7 +11,11 @@ Business also wants to store all images of a product together.
 1. Transform the raw data to a form that is ready for consumption by the downstream systems using **PySpark**. The final transformed data is made available in a **gold delta table** format.
 2. Create an unsupervised image clustering model using **Mlib**.
 
+Raw data schema:
+![image](https://github.com/annajjames/BigData_AmazonBerkleyObjects/assets/58715002/20ce3734-9344-4db5-a1d3-cf51a6481577)
 
+Gold table schema:
+![image](https://github.com/annajjames/BigData_AmazonBerkleyObjects/assets/58715002/bc5cf20d-911e-47f9-a88f-2d23e0561059)
 
 
 ## Attribution
